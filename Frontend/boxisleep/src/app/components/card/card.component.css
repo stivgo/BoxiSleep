@@ -1,0 +1,14 @@
+a{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+.card-body{
+  text-align: center;
+  margin: 5%;
+}
+h4{
+  color: red;
+  text-decoration: line-through;
+}

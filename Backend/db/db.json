@@ -1,0 +1,166 @@
+[
+    {
+        "id": 11,
+        "categoryId": 13,
+        "categoryName": "Combos",
+        "description": "combo-boxi",
+        "linkId": null,
+        "metaTagDescription": "combo-boxi",
+        "name": "Combo Boxi",
+        "refId": null,
+        "skus": [
+            {
+                "specifications": [
+                    "Sencillo",
+                    "100 x 190",
+                    "Firme"
+                ],
+                "listPrice": 2545273,
+                "basePrice": 1770900,
+                "id": 221,
+                "name": "Combo Boxi-100 firme",
+                "dimensions": {
+                    "cubicweight": 1,
+                    "height": 120,
+                    "length": 190,
+                    "weight": 55000,
+                    "width": 120
+                },
+                "isActive": true,
+                "listPriceFormatted": "$ 2.545.273,00",
+                "basePriceFormatted": "$ 1.770.900,00"
+            },
+            {
+                "specifications": [
+                    "Semidoble",
+                    "120 x 190",
+                    "Suave"
+                ],
+                "listPrice": 2963455,
+                "basePrice": 2100900,
+                "id": 39,
+                "name": "Combo Boxi-120 suave",
+                "dimensions": {
+                    "cubicweight": 1,
+                    "height": 120,
+                    "length": 190,
+                    "weight": 55000,
+                    "width": 120
+                },
+                "isActive": true,
+                "listPriceFormatted": "$ 2.963.455,00",
+                "basePriceFormatted": "$ 2.100.900,00"
+            }
+        ],
+        "title": "combo-boxi",
+        "gallery": [
+            {
+                "url": "combos/combo1.jpg",
+                "alt": "Combo Boxi"
+            },
+            {
+                "url": "combos/combo2.jpg",
+                "alt": "Combo Boxi Legend"
+            }
+        ],
+        "dimensionsMap": {
+            "Tamaño": [
+                "Sencillo",
+                "Semidoble",
+                "Doble",
+                "Queen",
+                "King"
+            ],
+            "Medidas": [
+                "100 x 190",
+                "120 x 190",
+                "140 x 190",
+                "160 x 190",
+                "200 x 200"
+            ],
+            "Firmeza": [
+                "Suave",
+                "Firme"
+            ]
+        }
+    },
+    {
+        "id": 76,
+        "categoryId": 17,
+        "categoryName": "Colchones",
+        "description": "",
+        "metaTagDescription": " Colchón el cual elimina el movimiento reflejo | ofrece soporte lumbar sin ser rígido ",
+        "name": "Colchón Boxi Legend",
+        "skus": [
+            {
+                "specifications": [
+                    "Queen",
+                    "160 x 190"
+                ],
+                "_id": {
+                    "$oid": "5f947ceca07359002f2f9068"
+                },
+                "listPrice": 5300000,
+                "basePrice": 5170000,
+                "id": 329,
+                "name": "Colchón Boxi Legend-160",
+                "dimensions": {
+                    "cubicweight": 1,
+                    "height": 24,
+                    "length": 190,
+                    "weight": 25000,
+                    "width": 140
+                },
+                "isActive": true,
+                "listPriceFormatted": "$ 5.300.000,00",
+                "basePriceFormatted": "$ 5.170.000,00"
+            },
+            {
+                "specifications": [
+                    "Doble",
+                    "140 x 190"
+                ],
+                "_id": {
+                    "$oid": "5f947ceca07359002f2f9069"
+                },
+                "listPrice": 4500000,
+                "basePrice": 4180000,
+                "id": 327,
+                "name": "Colchón Boxi Legend-140",
+                "dimensions": {
+                    "cubicweight": 1,
+                    "height": 25,
+                    "length": 190,
+                    "weight": 25000,
+                    "width": 160
+                },
+                "isActive": true,
+                "listPriceFormatted": "$ 4.500.000,00",
+                "basePriceFormatted": "$ 4.180.000,00"
+            }
+        ],
+        "title": "&#x2705; Colchón Boxi Legend",
+        "dimensionsMap": {
+            "Tamaño": [
+                "Doble",
+                "Queen",
+                "King"
+            ],
+            "Medidas": [
+                "140 x 190",
+                "160 x 190",
+                "200 x 200"
+            ]
+        },
+        "gallery": [
+            {
+                "url": "colchones/colchones1.jpg",
+                "alt": "Colchón Boxi Suave"
+            },
+            {
+                "url": "colchones/colchones2.jpg",
+                "alt": "Colchón Boxi Legend"
+            }
+        ]
+    }
+]

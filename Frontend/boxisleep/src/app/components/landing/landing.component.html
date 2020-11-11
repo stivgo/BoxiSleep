@@ -1,0 +1,14 @@
+<app-header></app-header>
+<div class="container main">
+  <div class="row">
+    <div *ngFor= "let mattress of info;">
+      <div class="col-sm-12 col-md-12 col-lg-6">
+        <app-card [name]= 'mattress.name' [imgsrc]= '"../../../assets/images/"+mattress.gallery[0].url'
+          [imgalt]= 'mattress.gallery[0].url' [price]= 'mattress.skus[0].basePriceFormatted'
+          [pricedis]= 'mattress.skus[0].listPriceFormatted' [id]=mattress.id >
+        </app-card>
+      </div>
+    </div>
+  </div>
+
+</div>
