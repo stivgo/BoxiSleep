@@ -61,7 +61,7 @@ const sendEmail = (mensaje) => {
     // send mail with defined transport object
     let info = {
         from: '"Prueba Full Stack " <buenvecinoeco@gmail.com>', // sender address
-        to: "stiveng0630@gmail.com", // list of receivers
+        to: "nsanchez@colchonesrem.com", // list of receivers
         subject: "Compra de Colchon", // Subject line
         text: mensaje, // plain text body
     };
