@@ -6,8 +6,11 @@ const cors = require("cors")
 
 //Inicializacion servidor
 const servidor = express();
+servidor.use(cors());
 servidor.use(express.json());
 servidor.use(product);
+
+
 
 
 //Middleware sobre error general
